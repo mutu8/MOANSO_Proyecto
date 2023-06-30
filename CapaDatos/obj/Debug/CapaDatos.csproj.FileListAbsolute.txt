@@ -1,0 +1,9 @@
+C:\Users\Steven\source\repos\AVANCE_PF_MOANSO_\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Steven\source\repos\AVANCE_PF_MOANSO_\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Steven\source\repos\AVANCE_PF_MOANSO_\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\AVANCE_PF_MOANSO_\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Steven\source\repos\AVANCE_PF_MOANSO_\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Steven\source\repos\AVANCE_PF_MOANSO_\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Steven\source\repos\AVANCE_PF_MOANSO_\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Steven\source\repos\AVANCE_PF_MOANSO_\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Steven\source\repos\AVANCE_PF_MOANSO_\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
